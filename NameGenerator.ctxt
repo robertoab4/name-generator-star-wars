@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=NameGenerator
+comment0.text=\r\n\ Crea\ un\ nombre\ "de\ Star\ Wars"\ utilizando\ las\ cuatro\ primeras\ letras\ de\ tu\ apellido,\r\n\ las\ tres\ primeras\ de\ tu\ nombre,\ las\ dos\ primeras\ letras\ del\ apellido\ de\ tu\ madre\ \r\n\ y\ las\ cinco\ primeras\ letras\ de\ la\ ciudad\ donde\ naciste\r\n\r\n\ \r\n\ @author\ (Roberto\ Alarcon\ Bardon)\ \r\n\ @version\ (22-02-2021)\r\n
+comment1.params=
+comment1.target=NameGenerator()
+comment2.params=nombreReal\ apellidoReal\ apellidoDeTuMadre\ ciudadDeNacimiento
+comment2.target=void\ generateStarWarsName(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=3
